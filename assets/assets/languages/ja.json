@@ -1,0 +1,20 @@
+{
+    "lbl_my_personal_portfolio": "履歴書",
+    "lbl_cert_name_accountant":"会計士コース",
+    "lbl_cert_name_designer":"グラフィックデザイナー",
+    "lbl_cert_name_java":"JavaScriptコース",
+    "lbl_cert_name_react":"React.jsコース",
+    "lbl_cert_name_ts":"TypeScriptコース",
+    "lbl_cert_name_aws":"AWSコース",
+    "lbl_cert_name_docker":"Dockerコース",
+    "lbl_cert_org_accountant":"Magic Choice会計センター",
+    "lbl_cert_org_designer":"グラフィックデザイン(Ehlel Academy)",
+    "lbl_cert_org_1234":"オンライン コース1234.mn",
+    "lbl_cert_skill_accountant":"会計士",
+    "lbl_cert_skill_designer":"グラフィックデザイナー",
+    "lbl_cert_skill_java":"JavaScript",
+    "lbl_cert_skill_react":"React.js",
+    "lbl_cert_skill_ts":"TypeScript",
+    "lbl_cert_skill_aws":"AWS",
+    "lbl_cert_skill_docker":"Docker"
+}

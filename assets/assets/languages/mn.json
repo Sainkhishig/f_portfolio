@@ -1,0 +1,20 @@
+{
+    "lbl_my_personal_portfolio": "Япон хэл",
+    "lbl_cert_name_accountant":"Няравын мэргэжлийн сургалт",
+    "lbl_cert_name_designer":"График дизайнер",
+    "lbl_cert_name_java":"JavaScript-ын сургалт ",
+    "lbl_cert_name_react":"React.js-ын сургалт ",
+    "lbl_cert_name_ts":"TypeScript-ын сургалт",
+    "lbl_cert_name_aws":"AWS -ын сургалт ",
+    "lbl_cert_name_docker":"Docker -ын сургалт ",
+    "lbl_cert_org_accountant":"Magic Choice НББ төв",
+    "lbl_cert_org_designer":"Ehlel Academy",
+    "lbl_cert_org_1234":"1234.mn",
+    "lbl_cert_skill_accountant":"Accountant",
+    "lbl_cert_skill_designer":"Graphic Designer",
+    "lbl_cert_skill_java":"JavaScript",
+    "lbl_cert_skill_react":"React.js",
+    "lbl_cert_skill_ts":"TypeScript",
+    "lbl_cert_skill_aws":"AWS",
+    "lbl_cert_skill_docker":"Docker "
+}

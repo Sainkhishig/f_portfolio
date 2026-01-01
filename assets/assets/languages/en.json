@@ -1,0 +1,20 @@
+{
+    "lbl_my_personal_portfolio": "My Ppersonal portfolio",
+    "lbl_cert_name_accountant":"Accountant course",
+    "lbl_cert_name_designer":"Graphic designer",
+    "lbl_cert_name_java":"JavaScript course",
+    "lbl_cert_name_react":"React.js course",
+    "lbl_cert_name_ts":"TypeScript course",
+    "lbl_cert_name_aws":"AWS course",
+    "lbl_cert_name_docker":"Docker course",
+    "lbl_cert_org_accountant":"Magic Choice NBB Center",
+    "lbl_cert_org_designer":"Ehlel Academy",
+    "lbl_cert_org_1234":"1234.mn",
+    "lbl_cert_skill_accountant":"Accountant",
+    "lbl_cert_skill_designer":"Graphic Designer",
+    "lbl_cert_skill_java":"JavaScript",
+    "lbl_cert_skill_react":"React.js",
+    "lbl_cert_skill_ts":"TypeScript",
+    "lbl_cert_skill_aws":"AWS",
+    "lbl_cert_skill_docker":"Docker"
+}
